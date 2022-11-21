@@ -1,0 +1,8 @@
+body{
+    height: 100vh; /*vh = View Height*/
+    border: 1px dashed black;
+    background-image: url(/ex001/imagens/pokebola.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
