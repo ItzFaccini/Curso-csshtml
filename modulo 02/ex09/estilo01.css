@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(21, 1, 82);
+    color:white;
+}
+.titulo2{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 15px;
+}
+nav{
+   background-image: linear-gradient(to right,rgb(224, 199, 195),rgb(201, 243, 239));
+    border: 10px groove rgb(255, 115, 0);
+    border-radius: 15px;
+    text-align: center;
+    padding-bottom: 5px;
+    width: auto;
+}
+nav > a{
+    background-color: rgb(67, 210, 212);
+    color:rgb(255, 153, 0);
+    -webkit-text-stroke-color: rgb(1, 1, 1);
+    -webkit-text-stroke-width: 1px;
+    font:bolder 18px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-decoration: none;
+    border: 5px groove rgb(255, 115, 0);
+    border-radius: 10px;
+    padding: 3px 25px 5px 25px;
+    line-height: 2.5em;
+}
+a:hover{
+    background-color: orange;
+    color: blue;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+    -webkit-text-stroke-width: 1px;
+}

@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+}
+h1{
+    color: darkred;
+}
+h2{
+    color: lime;
+}
